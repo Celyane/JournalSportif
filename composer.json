@@ -1,0 +1,19 @@
+{
+    "name": "celyane/journal-sportif",
+    "description": "A project for managing sports journal",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "journalSportif\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Celyane",
+            "email": "celyanecc@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
